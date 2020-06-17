@@ -1,0 +1,16 @@
+.cart-container h3 {
+  text-align: center;
+}
+
+.cart-container h5 {
+  font-weight: 500;
+}
+
+.review-button {
+  background: goldenrod;
+  height: 30px;
+  width: 150px;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-weight: bold;
+}
